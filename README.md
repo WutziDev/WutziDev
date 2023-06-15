@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wutzi</h1>
 <h3 align="center">A Frontend and C# Developer from Germany</h3>
 
+
+- 🎹 I'm a musician
+
 - 🔭 I’m currently working on [Endelon](https://endelon-hosting.de)
 
 - 🌱 I’m currently learning **C# and Blazor**
